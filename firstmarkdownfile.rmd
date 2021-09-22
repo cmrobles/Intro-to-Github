@@ -1,0 +1,10 @@
+--
+title: "My First Markdown File"
+author: "Carhvy Marie M. Robles"
+date: "09/22/2021"
+output: html_document
+--
+
+# Title: My First Markdown File
+### Author: *Carhvy Marie Robles*
+### Date: *September 22, 2021*
